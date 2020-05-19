@@ -3,6 +3,8 @@ go-outputdebug
 
 We can view debug-log with debugger or viewer.(Recommend [DebugView for Windows](https://technet.microsoft.com/ja-jp/sysinternals/debugview.aspx) )
 
+(This package is forked to another package: [go-windows-dbg](https://github.com/zetamatta/go-windows-dbg))
+
 [Example](./example/example.go)
 --------------------------------
 
